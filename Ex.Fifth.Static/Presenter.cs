@@ -22,7 +22,9 @@ namespace Ex.Fifth.Static
                         ExtentionSortReverseSecond();
                         break;
                     default:
-                        Method();
+                        ExtentionSubstring();
+                        ExtentionIndexOf();
+                        ExtentionReplace();
                         break;
                 }
                 Console.WriteLine("Enter any key to continue.");

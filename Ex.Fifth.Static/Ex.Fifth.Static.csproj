@@ -48,7 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Task4NewMeta\Main4.cs" />
-    <Compile Include="Task4NewMeta\StringMethodsOverride.cs" />
+    <Compile Include="Task4NewMeta\StringMethodsExtention.cs" />
     <Compile Include="Task3Extention%282nd version%29\IntArreyExtentionReverseSecond.cs" />
     <Compile Include="Task3Extention%282nd version%29\Main3_2nd.cs" />
     <Compile Include="Task2Extention%282nd version%29\Main2_2nd.cs" />
