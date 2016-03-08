@@ -21,6 +21,10 @@ namespace Ex.Fifth.Static
         {
             string myString = "testStringopenWhile TestBework";
 
+            string myString1 = "cndsjf_1_fmdjk";
+
+            Assert.AreEqual(7, myString1.ExtentionIndexOf("1"));
+
             Assert.AreEqual(16, myString.ExtentionIndexOf("ile"));
             Assert.AreEqual(-1, myString.ExtentionIndexOf("qqqqq"));
             Assert.AreEqual(0, myString.ExtentionIndexOf("test"));
